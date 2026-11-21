@@ -1,3 +1,6 @@
+/* Israel Cruz Cruz
+Practica 10 Lab
+Programa2a */
 #include<stdio.h>
 int main()
 {
